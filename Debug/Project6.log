@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/6/4/周六 22:22:41。
+     1>项目“c:\Users\asus\documents\visual studio 2015\Projects\Project6\Project6\Project6.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\asus\documents\visual studio 2015\projects\project6\project6\administratorsset.h(73): error C2653: “Administrators”: 不是类或命名空间名称
+     1>c:\users\asus\documents\visual studio 2015\projects\project6\project6\administratorsset.h(74): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\users\asus\documents\visual studio 2015\projects\project6\project6\administratorsset.h(75): warning C4508: “Administrators”: 函数应返回一个值；假定“void”返回类型
+     1>c:\users\asus\documents\visual studio 2015\projects\project6\project6\main.cpp(117): error C2146: 语法错误: 缺少“;”(在标识符“b”的前面)
+     1>c:\users\asus\documents\visual studio 2015\projects\project6\project6\main.cpp(117): warning C4551: 缺少参数列表的函数调用
+     1>c:\users\asus\documents\visual studio 2015\projects\project6\project6\main.cpp(117): error C2065: “b”: 未声明的标识符
+     1>已完成生成项目“c:\Users\asus\documents\visual studio 2015\Projects\Project6\Project6\Project6.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.44
